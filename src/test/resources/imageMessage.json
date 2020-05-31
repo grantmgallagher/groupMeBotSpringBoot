@@ -1,0 +1,23 @@
+{
+  "attachments": [
+    {
+      "type": "image",
+      "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/8d/President_Barack_Obama.jpg/440px-President_Barack_Obama.jpg"
+    }
+  ],
+  "avatar_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/8d/President_Barack_Obama.jpg/440px-President_Barack_Obama.jpg",
+  "created_at": 1590020636,
+  "favorited_by": [
+    "87654321"
+  ],
+  "group_id": "12345678",
+  "id": "123456789012345678",
+  "name": "Test",
+  "sender_id": "12345678",
+  "sender_type": "user",
+  "source_guid": "c699149c-9af9-11ea-bb37-0242ac130002",
+  "system": false,
+  "text": null,
+  "user_id": "12345678",
+  "platform": "gm"
+}

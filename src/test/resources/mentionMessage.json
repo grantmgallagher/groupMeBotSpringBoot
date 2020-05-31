@@ -1,0 +1,29 @@
+{
+  "attachments": [
+    {
+      "loci": [
+        [
+          0,
+          5
+        ]
+      ],
+      "type": "mentions",
+      "user_ids": [
+        "12345678"
+      ]
+    }
+  ],
+  "avatar_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/8d/President_Barack_Obama.jpg/440px-President_Barack_Obama.jpg",
+  "created_at": 1590020636,
+  "favorited_by": [],
+  "group_id": "12345678",
+  "id": "123456789012345678",
+  "name": "Tester",
+  "sender_id": "12345678",
+  "sender_type": "user",
+  "source_guid": "c699149c-9af9-11ea-bb37-0242ac130002",
+  "system": false,
+  "text": "@Test this is a test",
+  "user_id": "12345678",
+  "platform": "gm"
+}

@@ -1,0 +1,72 @@
+{
+  "response": {
+    "id": "12345678",
+    "group_id": "12345678",
+    "name": "TestingGroup",
+    "phone_number": "1",
+    "type": "private",
+    "description": "",
+    "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/8d/President_Barack_Obama.jpg/440px-President_Barack_Obama.jpg",
+    "creator_user_id": "12345678",
+    "created_at": 1590374251,
+    "updated_at": 1590374252,
+    "muted_until": null,
+    "office_mode": false,
+    "share_url": null,
+    "share_qr_code_url": null,
+    "members": [
+      {
+        "user_id": "12345678",
+        "nickname": "AdminTest",
+        "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/8d/President_Barack_Obama.jpg/440px-President_Barack_Obama.jpg",
+        "id": "123456789",
+        "muted": true,
+        "autokicked": false,
+        "roles": [
+          "admin",
+          "owner"
+        ],
+        "name": "AdminTest"
+      },
+      {
+        "user_id": "12345677",
+        "nickname": "Test2",
+        "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/8d/President_Barack_Obama.jpg/440px-President_Barack_Obama.jpg",
+        "id": "123456787",
+        "muted": false,
+        "autokicked": false,
+        "roles": [
+          "user"
+        ],
+        "name": "Test2"
+      },
+      {
+        "user_id": "12345679",
+        "nickname": "Tester1",
+        "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/8d/President_Barack_Obama.jpg/440px-President_Barack_Obama.jpg",
+        "id": "123456788",
+        "muted": false,
+        "autokicked": false,
+        "roles": [
+          "user"
+        ],
+        "name": "Tester1"
+      }
+    ],
+    "messages": {
+      "count": 3,
+      "last_message_id": "159037425213878582",
+      "last_message_created_at": 1590374252,
+      "preview": {
+        "nickname": "Tester1",
+        "text": "Test1",
+        "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/8d/President_Barack_Obama.jpg/440px-President_Barack_Obama.jpg",
+        "attachments": []
+      }
+    },
+    "max_members": 5000
+  },
+  "meta": {
+    "code": 200
+  }
+}
